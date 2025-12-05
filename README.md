@@ -26,8 +26,10 @@ and a clean modern UI.
 <img src="AddTask.jpg" width="300"/>
 
 
+<video width="300" height="600" controls>
+  <source src="video.mp4" type="video/mp4">
+</video>
 
-![Register](screenshots/register.png)
 
 > 📌 Add your images inside a folder named `screenshots` in your project root.
 
