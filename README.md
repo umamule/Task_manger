@@ -22,6 +22,7 @@ and a clean modern UI.
 
 <img src="LogIn.jpg" width="300"/>
 <img src="SignUp.jpg" width="300"/>
+<img src="dashboards.jpg" width="300"/>
 <img src="Dashboard.jpg" width="300"/>
 <img src="AddTask.jpg" width="300"/>
 
@@ -35,8 +36,8 @@ and a clean modern UI.
 Click to watch the full app demo:  
 
 
-<video width="300" height="600" controls>
-  <source src="video.mp4" type="video/mp4">
+<video width="300" height="600" src="video.mp4" type="video/mp4">
+
 </video>
 
 
