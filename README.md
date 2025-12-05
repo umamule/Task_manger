@@ -20,14 +20,10 @@ and a clean modern UI.
 
 ## 📸 App Screenshots  
 
-![Dashboard](screenshots/SignUp.jpg)
-
-![Dashboard](screenshots/LogIn.jpg)
-
-![Dashboard](screenshots/Dashboards.jpg)
-
-![Dashboard](screenshots/dashboard.jpg)
-
+<img src="LogIn.jpg" width="300"/>
+<img src="SignUp.jpg" width="300"/>
+<img src="Dashboard.jpg" width="300"/>
+<img src="AddTask.jpg" width="300"/>
 
 
 
