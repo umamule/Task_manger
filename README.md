@@ -26,21 +26,19 @@ and a clean modern UI.
 <img src="AddTask.jpg" width="300"/>
 
 
-<video width="300" height="600" controls>
-  <source src="video.mp4" type="video/mp4">
-</video>
 
 
-> 📌 Add your images inside a folder named `screenshots` in your project root.
 
 ---
 
 ## 🎥 Demo Video  
 Click to watch the full app demo:  
 
-👉 **[Watch Demo Video](screenshots/video.mp4)**
 
-> Upload your video to YouTube or GitHub and replace the link.
+<video width="300" height="600" controls>
+  <source src="video.mp4" type="video/mp4">
+</video>
+
 
 ---
 
